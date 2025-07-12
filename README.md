@@ -2,7 +2,9 @@
 
 `双兔傍地走，安能辨我是雄雌`
 
-<img src="docs/oam.png" alt="示意图" width="30%" height="30%">
+<a href="https://www.bilibili.com/video/BV1gmNRzqEbg" target="_blank">
+  <img src="docs/oam.png" alt="image" />
+</a>
 
 ## Spec
 
