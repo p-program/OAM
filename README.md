@@ -22,8 +22,7 @@ Because **time will tell the truth.**
 
 ## Example
 
-See [this](function/local/gorm/analyze/module.go).
-
+See [this](https://github.com/p-program/OAM/blob/main/function/web/rockman.go).
 
 ## Differences between OAM（Open Application Model） and OAM（Open AI Model）
 
@@ -32,7 +31,6 @@ OAM（Open Application Model） is an open model for defining cloud native apps.
 OAM（Open AI Model） is an open model for defining AI.
 
 Focused on AI rather than application, Open AI Model [OAM] brings simplest but most powerful  design for modeling AI.
-
 
 ## Why does OAM fail?
 
